@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+[ 2018-12-03T09:22:44+08:00 ] 123.114.203.239 GET /admin/system.system_databackup/index.html
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-03T09:22:58+08:00 ] 123.114.203.239 GET /admin/system.system_databackup/seetable/tablename/eb_user
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-03T09:23:19+08:00 ] 123.114.203.239 GET /admin/system.system_databackup/seetable/tablename/eb_wechat_user
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-03T09:43:29+08:00 ] 123.114.203.239 GET /admin/system.system_upgradeclient/index.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically, assuming $this from incompatible context
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically, assuming $this from incompatible context
+---------------------------------------------------------------
+[ 2018-12-03T09:43:29+08:00 ] 123.114.203.239 POST /admin/system.system_upgradeclient/get_list.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically, assuming $this from incompatible context
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically, assuming $this from incompatible context
+---------------------------------------------------------------
+[ 2018-12-03T09:43:30+08:00 ] 123.114.203.239 POST /admin/system.system_upgradeclient/get_new_version_conte.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically, assuming $this from incompatible context
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically, assuming $this from incompatible context
+---------------------------------------------------------------
+[ 2018-12-03T18:12:16+08:00 ] 223.166.222.109 POST /index.php/wap/wechat/serve?signature=67021a5be818a6d60847d1b3cfc18f8600a96c56&timestamp=1543831935&nonce=1427270080&openid=oMqCCuCH2IBJSTPBw1v4tLE-MxuM
+[ error ] [8]未定义变量: response

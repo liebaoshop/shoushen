@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+[ 2018-12-04T14:26:44+08:00 ] 140.207.54.75 POST /index.php/wap/wechat/serve?signature=86be819e99436110949879f4458d7e18bdb7db3f&timestamp=1543904803&nonce=231722542&openid=oMqCCuP_v4Cd_Nm8zWZ9awomc0yo
+[ error ] [8]未定义变量: response
+---------------------------------------------------------------
+[ 2018-12-04T14:48:34+08:00 ] 123.114.203.239 GET /admin/system.system_databackup/index.html
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-04T14:49:17+08:00 ] 114.252.170.149 GET /admin/system.system_databackup/index.html
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-04T14:49:36+08:00 ] 114.252.170.149 GET /admin/system.system_databackup/index.html
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-04T14:50:19+08:00 ] 223.166.151.197 GET /admin/system.system_databackup/index.html
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
+---------------------------------------------------------------
+[ 2018-12-04T15:26:19+08:00 ] 123.114.203.239 GET /admin/system.system_databackup/seetable/tablename/eb_system_menus
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given
